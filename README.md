@@ -19,7 +19,9 @@ ArXiv URL: https://arxiv.org/pdf/2111.08644.pdf
   
   [Statistics](#statistics)
   
-  [License](#something-else)
+  [State-of-the-art results](#State-of-the-art-results)
+  
+  [License](#license)
   
   [Citation](#citation) 
  
@@ -27,9 +29,8 @@ ArXiv URL: https://arxiv.org/pdf/2111.08644.pdf
 ### Description
 UBnormal is new supervised open-set benchmark composed of multiple virtual scenes for video anomaly detection. Unlike existing data sets, we introduce abnormal events annotated at the pixel level at training time, for the first time enabling the use of fully-supervised learning methods for abnormal event detection. To preserve the typical open-set formulation, we make sure to include disjoint sets of anomaly types in our training and test collections of videos.
 
-Examples of actions from our data set:
-This is the pipeline of our framework:
-![examples](imgs/ubnormal_examples.png) 
+Examples of actions from our data set:   
+![ubnormal_examples](imgs/ubnormal_examples.png) 
 
 ### Download
 The UBnormal* data set can be downloaded from [here](link).
@@ -37,6 +38,9 @@ The UBnormal* data set can be downloaded from [here](link).
 ###### *We do not release the ground-truth labels for the test set.
 
 ### Statistics
+TODO:
+
+### State-of-the-art results
 TODO:
 
 ## License
