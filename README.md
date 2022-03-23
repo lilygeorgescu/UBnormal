@@ -9,8 +9,13 @@ Official URL: TBA
 
 ArXiv URL: https://arxiv.org/pdf/2111.08644.pdf
 
+
+We present an abnormal video in the left side (the anomalous regions are emphasised with red contour) and in the right side we present a normal video from UBnormal data set.
+
 ![](./imgs/abnormal_scene_29_scenario_3.gif)
 ![](./imgs/normal_scene_16_scenario_2.gif)
+
+
 ### Table of Contents:
 
   [Description of UBnormal](#description) 
@@ -38,7 +43,7 @@ The UBnormal* data set can be downloaded from [here](link).
 ###### *We do not release the ground-truth labels for the test set.
 
 ### Statistics
-TODO:
+![ubnormal_examples](imgs/statistics.png) 
 
 ### State-of-the-art results
 TODO:
