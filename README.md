@@ -38,7 +38,7 @@ Examples of actions from our data set:
 ![ubnormal_examples](imgs/ubnormal_examples.png) 
 
 ### Download
-The UBnormal* data set can be downloaded from [here](link).
+The UBnormal* data set can be downloaded from [https://drive.google.com/file/d/1Q-CiKN0jGkxcpLWszY0E2CMBFHc5Ns_w/view?usp=sharing](link).
 
 ###### *We do not release the ground-truth labels for the test set.
 
