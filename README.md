@@ -44,7 +44,7 @@ Examples of actions from our data set:
 ### Download
 The UBnormal* data set can be downloaded from [here](https://drive.google.com/file/d/1Q-CiKN0jGkxcpLWszY0E2CMBFHc5Ns_w/view?usp=sharing).
 
-###### *We do not release the ground-truth labels for the test set.
+###### *We will release the ground-truth labels for the test set at a later date (TBA).
 
 ### Statistics 
 <img src="https://raw.githubusercontent.com/lilygeorgescu/UBnormal/main/imgs/statistics.png" width="400">
