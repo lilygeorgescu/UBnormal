@@ -40,9 +40,11 @@ def write_frame_level_ground_truth(output_folder_base, video_dir, filenames, is_
         else:
             np.savetxt(gt_path, ground_truth)
 
-
+# path to the output folder
 output_folder_base = '/home/lili/andra/output_yolo_0.80/synthetic_abnormal_events_dataset'
+# path to the data set
 video_dir = "/media/lili/SSD2/datasets/synthetic_abnormal_events_dataset"
+# path to the txt file with the video names
 filenames = "/home/lili/code/abnormal_event/abnormal_events_simulator/Split/normal_validation_video_names.txt"
-
+# if the list with the video names are for the normal videos set is_abnormal to False, otherwise set it to True.
 write_frame_level_ground_truth(output_folder_base, video_dir, filenames, is_abnormal=False)

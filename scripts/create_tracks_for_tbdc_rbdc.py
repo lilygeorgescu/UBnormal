@@ -100,9 +100,12 @@ def create_tracks(abnormal_video_names):
 
 
 if __name__ == '__main__':
+    # path to the data set
     base_input_folder = "E:\\synthetic_abnormal_events_dataset"
+    # path to the output folder
     output_folder = "tracks_val"
     os.makedirs(output_folder, exist_ok=True)
+    # paths to the video names
     abnormal_video_names_path = "abnormal_validation_video_names.txt"
     normal_video_names_path = "normal_validation_video_names.txt"
 

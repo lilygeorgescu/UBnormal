@@ -217,6 +217,7 @@ def print_num_abnormal_frames():
 
 
 if __name__ == '__main__':
+    # Path to the data set
     base_folder_input = "E:\\UBnormal"
 
     abnormal_train_video_names_path = "abnormal_training_video_names.txt"

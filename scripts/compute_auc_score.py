@@ -22,7 +22,6 @@ for video_name in testing_videos_names:
     all_gt_frame_scores = np.append(all_gt_frame_scores, gt_scores)
 
     roc_auc = roc_auc_score(np.concatenate(([0], gt_scores, [1])), np.concatenate(([0], video_scores, [1])))
-    print(roc_auc)
     roc_auc_videos.append(roc_auc)
 
 
