@@ -86,15 +86,21 @@ The results on the UBnormal data set on the test set:
 
 </table>
 
+<div>
 <sub>
 [1] M.I. Georgescu, R.T. Ionescu, F.S. Khan, M. Popescu, and M. Shah. A Background Agnostic Framework with Adversarial Training for Abnormal Event Detection in Video. TPAMI 2021
-</sub>  
+</sub>
+</div>
+<div>
 <sub>
 [2] W. Sultani, C. Chen, and M. Shah. Real-World Anomaly Detection in Surveillance Videos. CVPR 2018
 </sub>
+</div>
+<div>
 <sub>
 [3] G. Bertasius, H. Wang, and L. Torresani. Is Space-Time Attention All You Need for Video Understanding. ICML 2021
 </sub>
+</div>
 
 ## License
 The present data set is released under the 
