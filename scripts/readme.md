@@ -57,7 +57,7 @@ Annotations folder:
 
 - the objects are marked in the map with the corresponding id (0 denotes the background).
 
-    - e.g. if you want to extract the contour of the person with the id ```3``` from the video named ```video_name```,
+    - e.g.: if you want to extract the contour of the person with the id ```3``` from the video named ```video_name```,
      you should go to the ```{video_name}_annotations``` folder, read all the maps and searched for the number ```3```.
      
 - each abnormal video has a txt file named ```{video_name}_tracks.txt``` that specifies the anomalies with the following format:
