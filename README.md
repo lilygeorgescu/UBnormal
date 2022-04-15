@@ -26,6 +26,8 @@ We present an abnormal video in the left side (the anomalous regions are emphasi
   
   [State-of-the-art results](#State-of-the-art-results)
   
+  [Scripts](#scripts)
+  
   [License](#license)
   
   [Citation](#citation) 
@@ -101,6 +103,11 @@ The results on the UBnormal data set on the test set:
 [3] G. Bertasius, H. Wang, and L. Torresani. Is Space-Time Attention All You Need for Video Understanding. ICML 2021
 </sub>
 </div>
+
+
+## Scripts
+
+See the script folder.
 
 ## License
 The present data set is released under the 
