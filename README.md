@@ -61,7 +61,7 @@ The results on the UBnormal data set on the test set:
 </tr>
   
 <tr>
-    <td>Georgescu et al.[1] + UBnormal anomalies</td> 
+    <td>Georgescu et al. [1] + UBnormal anomalies</td> 
     <td>61.3</td>
     <td>85.6</td>
     <td>25.430</td>
@@ -69,7 +69,7 @@ The results on the UBnormal data set on the test set:
 </tr>
 
 <tr>
-    <td>Sultani et al.[2] (fine-tuned)</td> 
+    <td>Sultani et al. [2] (fine-tuned)</td> 
     <td>50.3</td>
     <td>76.8</td>
     <td>0.002</td>
@@ -77,7 +77,7 @@ The results on the UBnormal data set on the test set:
 </tr>
 
 <tr>
-    <td>Bertasius et al.[3] (1/32 sample rate, fine-tuned)</td> 
+    <td>Bertasius et al. [3] (1/32 sample rate, fine-tuned)</td> 
     <td>68.5</td>
     <td>80.3</td>
     <td>0.041</td>
@@ -88,6 +88,7 @@ The results on the UBnormal data set on the test set:
 
 <sub>
 [1] M.I. Georgescu, R.T. Ionescu, F.S. Khan, M. Popescu, and M. Shah. A Background Agnostic Framework with Adversarial Training for Abnormal Event Detection in Video. TPAMI 2021
+  
 
 [2] W. Sultani, C. Chen, and M. Shah. Real-World Anomaly Detection in Surveillance Videos. CVPR 2018
 
