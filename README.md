@@ -107,7 +107,7 @@ The results on the UBnormal data set on the test set:
 
 ## Scripts
 
-See the script folder.
+See the [script](https://github.com/lilygeorgescu/UBnormal/tree/main/scripts) folder.
 
 ## License
 The present data set is released under the 
