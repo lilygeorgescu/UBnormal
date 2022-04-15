@@ -1,22 +1,22 @@
 ## Useful scripts for using UBnormal 
 
 ### Data set split
-To <b>train</b> your model use the following files:
+The videos used to <b>train</b> anomaly detections models are listed in the following files:
 - normal_training_video_names.txt
 - abnormal_training_video_names.txt
 
-To <b>validate</b> your model use the following files: 
+The videos used to <b>validate</b> anomaly detections models are listed in the following files: 
 - normal_validation_video_names.txt
 - abnormal_validation_video_names.txt
 
-To <b>test</b> your model use the following files: 
+The videos used to <b>test</b> anomaly detections models are listed in the following files:
 - normal_test_video_names.txt
 - abnormal_test_video_names.txt
 
 
 
-### Object ids
-We release the list of object ids that are not persons in ```object_names_per_video.pkl``` with the following format:
+### Object IDs
+We release the list of object IDs that are not persons in ```object_names_per_video.pkl``` with the following format:
 ```
 format:
 {
@@ -30,7 +30,7 @@ real example:
 
 }
 ```
-If an object id is not found in ```object_names_per_video.pkl```, it means that the id is assigned to a person.
+If an object ID is not found in ```object_names_per_video.pkl```, it means that the ID is assigned to a person.
 
 ### Scripts
 - ```compute_auc_score.py``` 
@@ -55,9 +55,9 @@ Annotations folder:
 
 - for each frame in each video there is a map named ```{video_name}_{frame_index}_gt.png```
 
-- the objects are marked in the map with the corresponding id (0 denotes the background).
+- the objects are marked in the map with the corresponding ID (0 denotes the background).
 
-    - e.g.: if you want to extract the contour of the person with the id ```3``` from the video named ```video_name```,
+    - e.g.: if you want to extract the contour of the person with the ID ```3``` from the video named ```video_name```,
      you should go to the ```{video_name}_annotations``` folder, read all the maps and searched for the number ```3```.
      
 - each abnormal video has a txt file named ```{video_name}_tracks.txt``` that specifies the anomalies with the following format:
