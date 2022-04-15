@@ -39,7 +39,7 @@ To preserve the typical open-set formulation, we make sure to include disjoint s
 and test collections of videos.
 
 Examples of actions from our data set:    
-<img src="https://raw.githubusercontent.com/lilygeorgescu/UBnormal/main/imgs/ubnormal_examples.png" width="400">
+<img src="https://raw.githubusercontent.com/lilygeorgescu/UBnormal/main/imgs/ubnormal_examples.png" width="600">
 
 ### Download
 The UBnormal* data set can be downloaded from [here](https://drive.google.com/file/d/1Q-CiKN0jGkxcpLWszY0E2CMBFHc5Ns_w/view?usp=sharing).
