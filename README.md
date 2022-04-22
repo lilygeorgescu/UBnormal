@@ -15,7 +15,7 @@ We present an abnormal video in the left side (the anomalous regions are emphasi
 ![](./imgs/abnormal_scene_29_scenario_3.gif)
 ![](./imgs/normal_scene_16_scenario_2.gif)
 
-# We released the ground-truth for the test set. 🌟 NEW 
+# 🌟 NEW: We released the ground-truth for the test set. 
 
 ### Table of Contents:
 
@@ -45,7 +45,7 @@ Examples of actions from our data set:
 <img src="https://raw.githubusercontent.com/lilygeorgescu/UBnormal/main/imgs/ubnormal_examples.png" width="500">
 
 ### Download
-The UBnormal* data set can be downloaded from [here](https://drive.google.com/file/d/1KbfdyasribAMbbKoBU1iywAhtoAt9QI0/view?usp=sharing).
+The UBnormal data set can be downloaded from [here](https://drive.google.com/file/d/1KbfdyasribAMbbKoBU1iywAhtoAt9QI0/view?usp=sharing).
   
 ### Statistics 
 <img src="https://raw.githubusercontent.com/lilygeorgescu/UBnormal/main/imgs/statistics.png" width="400">
