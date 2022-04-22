@@ -15,7 +15,7 @@ We present an abnormal video in the left side (the anomalous regions are emphasi
 ![](./imgs/abnormal_scene_29_scenario_3.gif)
 ![](./imgs/normal_scene_16_scenario_2.gif)
 
-# We release the ground-truth for the test set.
+# We released the ground-truth for the test set. 🌟 NEW 
 
 ### Table of Contents:
 
