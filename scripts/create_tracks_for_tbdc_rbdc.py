@@ -1,4 +1,3 @@
-from correct_tracks import load_tracks
 import cv2 as cv
 import numpy as np
 import os
@@ -13,6 +12,13 @@ class Bbox:
         self.x_max: int = x_max
         self.y_max: int = y_max
         self.is_abnormal = is_abnormal
+
+def load_tracks(tracks_path):
+    tracks = np.loadtxt(tracks_path, delimiter=",")
+
+    if tracks.ndim == 1:
+        tracks = [tracks]
+    return np.array(tracks)
 
 
 def count_frames(path):

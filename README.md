@@ -27,7 +27,7 @@ We present an abnormal video in the left side (the anomalous regions are emphasi
   
   [State-of-the-art results](#State-of-the-art-results)
   
-  [Scripts](#scripts)
+  [Scripts and Split](#Scripts-and-Split)
   
   [License](#license)
   
@@ -104,9 +104,10 @@ The results on the UBnormal data set on the test set:
 </div>
 
 
-## Scripts
+## Scripts-and-Split
 
-See the [scripts](https://github.com/lilygeorgescu/UBnormal/tree/main/scripts) folder.
+The split of the data set is in [scripts](https://github.com/lilygeorgescu/UBnormal/tree/main/scripts).
+See the [scripts](https://github.com/lilygeorgescu/UBnormal/tree/main/scripts) folder for more details.
 
 ## License
 The present data set is released under the 
