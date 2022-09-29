@@ -5,7 +5,7 @@ Andra Acsintoae*, Andrei Florescu*, Mariana-Iuliana Georgescu*, Tudor Mare*, Pau
 
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
 
-Official URL: TBA
+Official URL: https://openaccess.thecvf.com/content/CVPR2022/html/Acsintoae_UBnormal_New_Benchmark_for_Supervised_Open-Set_Video_Anomaly_Detection_CVPR_2022_paper.html
 
 ArXiv URL: https://arxiv.org/pdf/2111.08644.pdf
 
